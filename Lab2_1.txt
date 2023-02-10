@@ -1,0 +1,275 @@
+using System;
+
+namespace Lab2_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Welcome to Grand Circus' Room Detail Generator!\n");  //Application title
+
+            string moreRooms = "Y"; //Initializes the While loop condition to be true
+
+            //while (moreRooms == "Y" || moreRooms == "y") //Checks the condition to continue measuring rooms or quit
+            do
+            {
+                Console.WriteLine("Enter Length:");
+                double length = Convert.ToDouble(Console.ReadLine());  //Convert function used to accept in decimal values for a double type variable and accepts user input
+
+                Console.WriteLine("Enter width:");
+                double width = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("Enter height:");
+                double height = Convert.ToDouble(Console.ReadLine());
+
+                double perimeter = (2 * length + 2 * width);  //Calculates the perimeter of the room
+                double area = (length * width);  //Calculates the area of the room
+                double volume = (length * width * height);  //Calculates the volume of the room
+
+                Console.WriteLine($"Area:  {area} ");  //Outputs the area of the room
+
+                Console.WriteLine($"Perimeter:  {perimeter} ");  //Outputs the perimeter of the room
+
+                Console.WriteLine($"Volume: {volume} ");  //Outputs the volume of the room
+
+                if (area <= 250)  //Checks the area to see if it fits small sized room 
+                {
+                    Console.WriteLine("That room is classified as a small-sized room.\n");
+                }
+                else if (area < 650) // Checks to see if it fits medium sized room
+                {
+                    Console.WriteLine("That room is classified as a medium-sized room.\n");
+                }
+                else  //Fails through to the large sized room choice
+                {
+                    Console.WriteLine("That room is classified as a large-sized room.\n");
+                }
+
+                Console.WriteLine("Continue? (y/n)"); //Prompts for user input to continue or not
+                moreRooms = Console.ReadLine();
+            }
+            while (moreRooms == "Y" || moreRooms == "y" || moreRooms != "N" || moreRooms != "n"); //Checks the condition to continue measuring rooms or quit
+
+                Console.WriteLine("\nThank you for using the Room Detail Generator!");
+        }
+    }
+}
+
+
+=========================================================
+using System;
+namespace ContinueDemo
+{
+	class Program
+	{
+		static bool KeepGoing()
+		{
+			// Version 0.01. (Agile Programming)
+			// Print out message asking if user wants to continue
+			Console.WriteLine("Would you like to go again? (y/n)");
+			// Ask the user for their input
+			string response = Console.ReadLine();
+			response = response.ToLower();
+			// Check if they typed "y". If so, return true.
+			// Otherwise return false.   YES   yes
+			if (response == "y" || response == "yes")
+			{
+				return true;
+			}
+			else
+			{
+				return false;
+			}
+		}
+		static void Main(string[] args)
+		{
+			do
+			{
+				Console.WriteLine("Welcome to my game!");
+				Console.WriteLine("You won!");
+			}
+			while (KeepGoing());
+		}
+	}
+}
+
+Jeff Cogswell  2:17 PM
+Final Version:
+2:17
+		static bool KeepGoing()
+		{
+			// Version 0.04. (Agile Programming)
+			while (true) {
+				// Print out message asking if user wants to continue
+				Console.WriteLine("Would you like to go again? (y/n)");
+				// Ask the user for their input
+				string response = Console.ReadLine();
+				response = response.ToLower();
+				// Check if they typed "y". If so, return true.
+				// Otherwise return false.   YES   yes
+				if (response == "y" || response == "yes")
+				{
+					return true;
+				}
+				else if (response == "n" || response == "no")
+				{
+					return false;
+				}
+				else
+				{
+					Console.WriteLine("Please enter y or n");
+				}
+			}
+		}
+Send your first message t
+
+
+
+
+============================================================
+using System;
+
+namespace Lab2_1
+{
+    class Program
+    {
+        static bool calcRooms()
+        {
+            Console.WriteLine("Continue? (y/n):"); //Prompts for user input to continue or not
+            string moreRooms = Console.ReadLine();
+            moreRooms = moreRooms.ToLower();
+
+            if (moreRooms == "y" || moreRooms == "yes")    //Checks the condition to continue measuring rooms or quit
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        static void Main(string[] args)
+        {
+
+            do
+            {
+
+                Console.WriteLine("Welcome to Grand Circus' Room Detail Generator!\n");  //Application title
+
+                Console.WriteLine("Enter Length:");
+                double length = Convert.ToDouble(Console.ReadLine());  //Convert function used to accept in decimal values for a double type variable and accepts user input
+
+                Console.WriteLine("Enter width:");
+                double width = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("Enter height:");
+                double height = Convert.ToDouble(Console.ReadLine());
+
+                double perimeter = (2 * length + 2 * width);  //Calculates the perimeter of the room
+                double area = (length * width);  //Calculates the area of the room
+                double volume = (length * width * height);  //Calculates the volume of the room
+
+                Console.WriteLine($"Area:  {area} ");  //Outputs the area of the room
+
+                Console.WriteLine($"Perimeter:  {perimeter} ");  //Outputs the perimeter of the room
+
+                Console.WriteLine($"Volume: {volume} ");  //Outputs the volume of the room
+
+                if (area <= 250)  //Checks the area to see if it fits small sized room 
+                {
+                    Console.WriteLine("That room is classified as a small-sized room.\n");
+                }
+                else if (area < 650) // Checks to see if it fits medium sized room
+                {
+                    Console.WriteLine("That room is classified as a medium-sized room.\n");
+                }
+                else  //Fails through to the large sized room choice
+                {
+                    Console.WriteLine("That room is classified as a large-sized room.\n");
+                }
+
+            }
+            while (calcRooms());
+
+            Console.WriteLine("\nThank you for using the Room Detail Generator!");
+        }
+    }
+}
+
+====================
+using System;
+
+namespace Lab2_1
+{
+    class Program
+    {
+        static bool calcRooms()
+        {
+
+            while (true)
+            {
+
+                Console.WriteLine("Continue? (y/n):"); //Prompts for user input to continue or not
+                string moreRooms = Console.ReadLine();
+                moreRooms = moreRooms.ToLower();  //Converts input case to only lower case
+
+                if (moreRooms == "y" || moreRooms == "yes")    //Checks the condition to continue measuring rooms or quit
+                {
+                    return true;
+                }
+                else if (moreRooms == "n" || moreRooms == "no")
+                {
+                    return false;
+                }
+                else
+                {
+                    Console.WriteLine("Please enter y or n");  //Prompts user to only enter a y (yes ) or n (no) if another character is entered
+                }
+            }
+        }
+        static void Main(string[] args)
+        {
+            do
+            {
+
+                Console.WriteLine("Welcome to Grand Circus' Room Detail Generator!\n");  //Application title
+
+                Console.WriteLine("Enter Length:");
+                double length = Convert.ToDouble(Console.ReadLine());  //Convert function used to accept in decimal values for a double type variable and accepts user input
+
+                Console.WriteLine("Enter width:");
+                double width = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("Enter height:");
+                double height = Convert.ToDouble(Console.ReadLine());
+
+                double perimeter = (2 * length + 2 * width);  //Calculates the perimeter of the room
+                double area = (length * width);  //Calculates the area of the room
+                double volume = (length * width * height);  //Calculates the volume of the room
+
+                Console.WriteLine($"Area:  {area} ");  //Outputs the area of the room
+
+                Console.WriteLine($"Perimeter:  {perimeter} ");  //Outputs the perimeter of the room
+
+                Console.WriteLine($"Volume: {volume} ");  //Outputs the volume of the room
+
+                if (area <= 250)  //Checks the area to see if it fits small sized room 
+                {
+                    Console.WriteLine("That room is classified as a small-sized room.\n");
+                }
+                else if (area < 650) // Checks to see if it fits medium sized room
+                {
+                    Console.WriteLine("That room is classified as a medium-sized room.\n");
+                }
+                else  //Fails through to the large sized room choice
+                {
+                    Console.WriteLine("That room is classified as a large-sized room.\n");
+                }
+
+            }
+            while (calcRooms());  //Do - While loop continues if calcRooms is true
+
+            Console.WriteLine("\nThank you for using the Room Detail Generator!");
+        }
+    }
+}

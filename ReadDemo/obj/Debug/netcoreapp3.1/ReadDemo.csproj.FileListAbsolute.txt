@@ -1,0 +1,13 @@
+C:\Dev\Week2\ReadDemo\bin\Debug\netcoreapp3.1\ReadDemo.exe
+C:\Dev\Week2\ReadDemo\bin\Debug\netcoreapp3.1\ReadDemo.deps.json
+C:\Dev\Week2\ReadDemo\bin\Debug\netcoreapp3.1\ReadDemo.runtimeconfig.json
+C:\Dev\Week2\ReadDemo\bin\Debug\netcoreapp3.1\ReadDemo.runtimeconfig.dev.json
+C:\Dev\Week2\ReadDemo\bin\Debug\netcoreapp3.1\ReadDemo.dll
+C:\Dev\Week2\ReadDemo\bin\Debug\netcoreapp3.1\ReadDemo.pdb
+C:\Dev\Week2\ReadDemo\obj\Debug\netcoreapp3.1\ReadDemo.csprojAssemblyReference.cache
+C:\Dev\Week2\ReadDemo\obj\Debug\netcoreapp3.1\ReadDemo.AssemblyInfoInputs.cache
+C:\Dev\Week2\ReadDemo\obj\Debug\netcoreapp3.1\ReadDemo.AssemblyInfo.cs
+C:\Dev\Week2\ReadDemo\obj\Debug\netcoreapp3.1\ReadDemo.csproj.CoreCompileInputs.cache
+C:\Dev\Week2\ReadDemo\obj\Debug\netcoreapp3.1\ReadDemo.dll
+C:\Dev\Week2\ReadDemo\obj\Debug\netcoreapp3.1\ReadDemo.pdb
+C:\Dev\Week2\ReadDemo\obj\Debug\netcoreapp3.1\ReadDemo.genruntimeconfig.cache

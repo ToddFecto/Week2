@@ -1,0 +1,12 @@
+C:\Dev\Week2\Ex_14\bin\Debug\netcoreapp3.1\Ex_14.exe
+C:\Dev\Week2\Ex_14\bin\Debug\netcoreapp3.1\Ex_14.deps.json
+C:\Dev\Week2\Ex_14\bin\Debug\netcoreapp3.1\Ex_14.runtimeconfig.json
+C:\Dev\Week2\Ex_14\bin\Debug\netcoreapp3.1\Ex_14.runtimeconfig.dev.json
+C:\Dev\Week2\Ex_14\bin\Debug\netcoreapp3.1\Ex_14.dll
+C:\Dev\Week2\Ex_14\bin\Debug\netcoreapp3.1\Ex_14.pdb
+C:\Dev\Week2\Ex_14\obj\Debug\netcoreapp3.1\Ex_14.AssemblyInfoInputs.cache
+C:\Dev\Week2\Ex_14\obj\Debug\netcoreapp3.1\Ex_14.AssemblyInfo.cs
+C:\Dev\Week2\Ex_14\obj\Debug\netcoreapp3.1\Ex_14.csproj.CoreCompileInputs.cache
+C:\Dev\Week2\Ex_14\obj\Debug\netcoreapp3.1\Ex_14.dll
+C:\Dev\Week2\Ex_14\obj\Debug\netcoreapp3.1\Ex_14.pdb
+C:\Dev\Week2\Ex_14\obj\Debug\netcoreapp3.1\Ex_14.genruntimeconfig.cache

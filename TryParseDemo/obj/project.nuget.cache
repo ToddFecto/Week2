@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZXDnnQz35pMX4BTH9RV1zYacHvc+CJOx1PmAvudJrzYa9TBYtHRT4RpTTcVgP1WMaehmaAx6LgUimnHN9HEasw==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Week2\\TryParseDemo\\TryParseDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfecto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

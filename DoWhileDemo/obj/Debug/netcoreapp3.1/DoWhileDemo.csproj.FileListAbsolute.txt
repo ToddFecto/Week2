@@ -1,0 +1,12 @@
+C:\Dev\Week2\DoWhileDemo\bin\Debug\netcoreapp3.1\DoWhileDemo.exe
+C:\Dev\Week2\DoWhileDemo\bin\Debug\netcoreapp3.1\DoWhileDemo.deps.json
+C:\Dev\Week2\DoWhileDemo\bin\Debug\netcoreapp3.1\DoWhileDemo.runtimeconfig.json
+C:\Dev\Week2\DoWhileDemo\bin\Debug\netcoreapp3.1\DoWhileDemo.runtimeconfig.dev.json
+C:\Dev\Week2\DoWhileDemo\bin\Debug\netcoreapp3.1\DoWhileDemo.dll
+C:\Dev\Week2\DoWhileDemo\bin\Debug\netcoreapp3.1\DoWhileDemo.pdb
+C:\Dev\Week2\DoWhileDemo\obj\Debug\netcoreapp3.1\DoWhileDemo.AssemblyInfoInputs.cache
+C:\Dev\Week2\DoWhileDemo\obj\Debug\netcoreapp3.1\DoWhileDemo.AssemblyInfo.cs
+C:\Dev\Week2\DoWhileDemo\obj\Debug\netcoreapp3.1\DoWhileDemo.csproj.CoreCompileInputs.cache
+C:\Dev\Week2\DoWhileDemo\obj\Debug\netcoreapp3.1\DoWhileDemo.dll
+C:\Dev\Week2\DoWhileDemo\obj\Debug\netcoreapp3.1\DoWhileDemo.pdb
+C:\Dev\Week2\DoWhileDemo\obj\Debug\netcoreapp3.1\DoWhileDemo.genruntimeconfig.cache

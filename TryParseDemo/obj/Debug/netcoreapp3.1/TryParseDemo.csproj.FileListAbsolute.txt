@@ -1,0 +1,12 @@
+C:\Dev\Week2\TryParseDemo\bin\Debug\netcoreapp3.1\TryParseDemo.exe
+C:\Dev\Week2\TryParseDemo\bin\Debug\netcoreapp3.1\TryParseDemo.deps.json
+C:\Dev\Week2\TryParseDemo\bin\Debug\netcoreapp3.1\TryParseDemo.runtimeconfig.json
+C:\Dev\Week2\TryParseDemo\bin\Debug\netcoreapp3.1\TryParseDemo.runtimeconfig.dev.json
+C:\Dev\Week2\TryParseDemo\bin\Debug\netcoreapp3.1\TryParseDemo.dll
+C:\Dev\Week2\TryParseDemo\bin\Debug\netcoreapp3.1\TryParseDemo.pdb
+C:\Dev\Week2\TryParseDemo\obj\Debug\netcoreapp3.1\TryParseDemo.AssemblyInfoInputs.cache
+C:\Dev\Week2\TryParseDemo\obj\Debug\netcoreapp3.1\TryParseDemo.AssemblyInfo.cs
+C:\Dev\Week2\TryParseDemo\obj\Debug\netcoreapp3.1\TryParseDemo.csproj.CoreCompileInputs.cache
+C:\Dev\Week2\TryParseDemo\obj\Debug\netcoreapp3.1\TryParseDemo.dll
+C:\Dev\Week2\TryParseDemo\obj\Debug\netcoreapp3.1\TryParseDemo.pdb
+C:\Dev\Week2\TryParseDemo\obj\Debug\netcoreapp3.1\TryParseDemo.genruntimeconfig.cache

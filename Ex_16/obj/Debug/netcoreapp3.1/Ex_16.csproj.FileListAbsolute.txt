@@ -1,0 +1,13 @@
+C:\Dev\Week2\Ex_16\bin\Debug\netcoreapp3.1\Ex_16.exe
+C:\Dev\Week2\Ex_16\bin\Debug\netcoreapp3.1\Ex_16.deps.json
+C:\Dev\Week2\Ex_16\bin\Debug\netcoreapp3.1\Ex_16.runtimeconfig.json
+C:\Dev\Week2\Ex_16\bin\Debug\netcoreapp3.1\Ex_16.runtimeconfig.dev.json
+C:\Dev\Week2\Ex_16\bin\Debug\netcoreapp3.1\Ex_16.dll
+C:\Dev\Week2\Ex_16\bin\Debug\netcoreapp3.1\Ex_16.pdb
+C:\Dev\Week2\Ex_16\obj\Debug\netcoreapp3.1\Ex_16.csprojAssemblyReference.cache
+C:\Dev\Week2\Ex_16\obj\Debug\netcoreapp3.1\Ex_16.AssemblyInfoInputs.cache
+C:\Dev\Week2\Ex_16\obj\Debug\netcoreapp3.1\Ex_16.AssemblyInfo.cs
+C:\Dev\Week2\Ex_16\obj\Debug\netcoreapp3.1\Ex_16.csproj.CoreCompileInputs.cache
+C:\Dev\Week2\Ex_16\obj\Debug\netcoreapp3.1\Ex_16.dll
+C:\Dev\Week2\Ex_16\obj\Debug\netcoreapp3.1\Ex_16.pdb
+C:\Dev\Week2\Ex_16\obj\Debug\netcoreapp3.1\Ex_16.genruntimeconfig.cache

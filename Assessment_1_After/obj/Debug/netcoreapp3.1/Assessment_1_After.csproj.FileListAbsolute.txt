@@ -1,0 +1,13 @@
+C:\Dev\Week2\Assessment_1_After\bin\Debug\netcoreapp3.1\Assessment_1_After.exe
+C:\Dev\Week2\Assessment_1_After\bin\Debug\netcoreapp3.1\Assessment_1_After.deps.json
+C:\Dev\Week2\Assessment_1_After\bin\Debug\netcoreapp3.1\Assessment_1_After.runtimeconfig.json
+C:\Dev\Week2\Assessment_1_After\bin\Debug\netcoreapp3.1\Assessment_1_After.runtimeconfig.dev.json
+C:\Dev\Week2\Assessment_1_After\bin\Debug\netcoreapp3.1\Assessment_1_After.dll
+C:\Dev\Week2\Assessment_1_After\bin\Debug\netcoreapp3.1\Assessment_1_After.pdb
+C:\Dev\Week2\Assessment_1_After\obj\Debug\netcoreapp3.1\Assessment_1_After.AssemblyInfoInputs.cache
+C:\Dev\Week2\Assessment_1_After\obj\Debug\netcoreapp3.1\Assessment_1_After.AssemblyInfo.cs
+C:\Dev\Week2\Assessment_1_After\obj\Debug\netcoreapp3.1\Assessment_1_After.csproj.CoreCompileInputs.cache
+C:\Dev\Week2\Assessment_1_After\obj\Debug\netcoreapp3.1\Assessment_1_After.dll
+C:\Dev\Week2\Assessment_1_After\obj\Debug\netcoreapp3.1\Assessment_1_After.pdb
+C:\Dev\Week2\Assessment_1_After\obj\Debug\netcoreapp3.1\Assessment_1_After.genruntimeconfig.cache
+C:\Dev\Week2\Assessment_1_After\obj\Debug\netcoreapp3.1\Assessment_1_After.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Dev\Week2\FunctionPractice\obj\Debug\netcoreapp3.1\FunctionPractice.AssemblyInfoInputs.cache
+C:\Dev\Week2\FunctionPractice\obj\Debug\netcoreapp3.1\FunctionPractice.AssemblyInfo.cs
+C:\Dev\Week2\FunctionPractice\obj\Debug\netcoreapp3.1\FunctionPractice.csproj.CoreCompileInputs.cache
+C:\Dev\Week2\FunctionPractice\bin\Debug\netcoreapp3.1\FunctionPractice.exe
+C:\Dev\Week2\FunctionPractice\bin\Debug\netcoreapp3.1\FunctionPractice.deps.json
+C:\Dev\Week2\FunctionPractice\bin\Debug\netcoreapp3.1\FunctionPractice.runtimeconfig.json
+C:\Dev\Week2\FunctionPractice\bin\Debug\netcoreapp3.1\FunctionPractice.runtimeconfig.dev.json
+C:\Dev\Week2\FunctionPractice\bin\Debug\netcoreapp3.1\FunctionPractice.dll
+C:\Dev\Week2\FunctionPractice\bin\Debug\netcoreapp3.1\FunctionPractice.pdb
+C:\Dev\Week2\FunctionPractice\obj\Debug\netcoreapp3.1\FunctionPractice.dll
+C:\Dev\Week2\FunctionPractice\obj\Debug\netcoreapp3.1\FunctionPractice.pdb
+C:\Dev\Week2\FunctionPractice\obj\Debug\netcoreapp3.1\FunctionPractice.genruntimeconfig.cache

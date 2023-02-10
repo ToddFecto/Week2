@@ -1,0 +1,13 @@
+C:\Dev\Week2\TryParseDemo2\bin\Debug\netcoreapp3.1\TryParseDemo2.exe
+C:\Dev\Week2\TryParseDemo2\bin\Debug\netcoreapp3.1\TryParseDemo2.deps.json
+C:\Dev\Week2\TryParseDemo2\bin\Debug\netcoreapp3.1\TryParseDemo2.runtimeconfig.json
+C:\Dev\Week2\TryParseDemo2\bin\Debug\netcoreapp3.1\TryParseDemo2.runtimeconfig.dev.json
+C:\Dev\Week2\TryParseDemo2\bin\Debug\netcoreapp3.1\TryParseDemo2.dll
+C:\Dev\Week2\TryParseDemo2\bin\Debug\netcoreapp3.1\TryParseDemo2.pdb
+C:\Dev\Week2\TryParseDemo2\obj\Debug\netcoreapp3.1\TryParseDemo2.AssemblyInfoInputs.cache
+C:\Dev\Week2\TryParseDemo2\obj\Debug\netcoreapp3.1\TryParseDemo2.AssemblyInfo.cs
+C:\Dev\Week2\TryParseDemo2\obj\Debug\netcoreapp3.1\TryParseDemo2.csproj.CoreCompileInputs.cache
+C:\Dev\Week2\TryParseDemo2\obj\Debug\netcoreapp3.1\TryParseDemo2.dll
+C:\Dev\Week2\TryParseDemo2\obj\Debug\netcoreapp3.1\TryParseDemo2.pdb
+C:\Dev\Week2\TryParseDemo2\obj\Debug\netcoreapp3.1\TryParseDemo2.genruntimeconfig.cache
+C:\Dev\Week2\TryParseDemo2\obj\Debug\netcoreapp3.1\TryParseDemo2.csprojAssemblyReference.cache

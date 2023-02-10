@@ -1,0 +1,13 @@
+C:\Dev\Week2\Ex_19\bin\Debug\netcoreapp3.1\Ex_19.exe
+C:\Dev\Week2\Ex_19\bin\Debug\netcoreapp3.1\Ex_19.deps.json
+C:\Dev\Week2\Ex_19\bin\Debug\netcoreapp3.1\Ex_19.runtimeconfig.json
+C:\Dev\Week2\Ex_19\bin\Debug\netcoreapp3.1\Ex_19.runtimeconfig.dev.json
+C:\Dev\Week2\Ex_19\bin\Debug\netcoreapp3.1\Ex_19.dll
+C:\Dev\Week2\Ex_19\bin\Debug\netcoreapp3.1\Ex_19.pdb
+C:\Dev\Week2\Ex_19\obj\Debug\netcoreapp3.1\Ex_19.AssemblyInfoInputs.cache
+C:\Dev\Week2\Ex_19\obj\Debug\netcoreapp3.1\Ex_19.AssemblyInfo.cs
+C:\Dev\Week2\Ex_19\obj\Debug\netcoreapp3.1\Ex_19.csproj.CoreCompileInputs.cache
+C:\Dev\Week2\Ex_19\obj\Debug\netcoreapp3.1\Ex_19.dll
+C:\Dev\Week2\Ex_19\obj\Debug\netcoreapp3.1\Ex_19.pdb
+C:\Dev\Week2\Ex_19\obj\Debug\netcoreapp3.1\Ex_19.genruntimeconfig.cache
+C:\Dev\Week2\Ex_19\obj\Debug\netcoreapp3.1\Ex_19.csprojAssemblyReference.cache

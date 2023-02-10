@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lzvuRnqpaYSHhYyphfkQjIb9rOtb1PG2DipmiGk9uuRQHE99gQx7k9ojoxPR1vFi76Yh0I/UDAG8BA95cc37TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Week2\\LoopDemo\\LoopDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfecto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
